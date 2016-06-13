@@ -17,6 +17,7 @@
 		07C963B91C4C8F86008448D2 /* DataSouceTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 07C963B81C4C8F86008448D2 /* DataSouceTestUITests.m */; };
 		07C963C81C4C8FAE008448D2 /* TabDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 07C963C71C4C8FAE008448D2 /* TabDelegate.m */; };
 		07C963CE1C4CC4A3008448D2 /* CustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 07C963CD1C4CC4A3008448D2 /* CustomCell.m */; };
+		525B24091D0E9E97004D4FB8 /* sss.m in Sources */ = {isa = PBXBuildFile; fileRef = 525B24081D0E9E97004D4FB8 /* sss.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		07C963C71C4C8FAE008448D2 /* TabDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabDelegate.m; sourceTree = "<group>"; };
 		07C963CC1C4CC4A3008448D2 /* CustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCell.h; sourceTree = "<group>"; };
 		07C963CD1C4CC4A3008448D2 /* CustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCell.m; sourceTree = "<group>"; };
+		525B24071D0E9E97004D4FB8 /* sss.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sss.h; sourceTree = "<group>"; };
+		525B24081D0E9E97004D4FB8 /* sss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = sss.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +123,8 @@
 				07C963A11C4C8F86008448D2 /* LaunchScreen.storyboard */,
 				07C963A41C4C8F86008448D2 /* Info.plist */,
 				07C963931C4C8F86008448D2 /* Supporting Files */,
+				525B24071D0E9E97004D4FB8 /* sss.h */,
+				525B24081D0E9E97004D4FB8 /* sss.m */,
 			);
 			path = DataSouceTest;
 			sourceTree = "<group>";
@@ -283,6 +288,7 @@
 				07C9639B1C4C8F86008448D2 /* ViewController.m in Sources */,
 				07C963981C4C8F86008448D2 /* AppDelegate.m in Sources */,
 				07C963C81C4C8FAE008448D2 /* TabDelegate.m in Sources */,
+				525B24091D0E9E97004D4FB8 /* sss.m in Sources */,
 				07C963951C4C8F86008448D2 /* main.m in Sources */,
 				07C963CE1C4CC4A3008448D2 /* CustomCell.m in Sources */,
 			);
